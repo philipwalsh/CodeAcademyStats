@@ -10,6 +10,8 @@ https://github.com/Codecademy/Master-Statistics-Live-Series
 
 In this session, we'll walk through the process of loading a tabular dataset into Python, inspecting the data, and taking a first look at some of the variables. We'll also cover basic Python and pandas syntax and discuss some of the different kinds of data you might encounter.
 
+after sitting through the first session, i find the time not well spent. The instructors are engaging and the little bit of material they managed to get through in the hour was useful. The issue in my mind is the pace was too slow and didnt get through near enough material. Just my thoughts, maybe i have been doing this long eenopugh and this was geared towards a noob or something. For me i was hoping this would be a good side learning program to my current course with jon krohn, but probably not.
+
 2. Jan 19, 2021 @4-6pm
 
 In this session, we'll continue to investigate our data with summary statistics and some basic data visualizations, using the Python libraries NumPy, pandas, matplotlib, and Seaborn. We'll also discuss how to choose an appropriate summary statistic to answer a particular question.
